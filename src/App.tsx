@@ -25,7 +25,7 @@ function App() {
         <header className="mb-20 text-center">
           <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden ring-4 ring-purple-500/50 hover:ring-purple-400 transition-all duration-300 transform hover:scale-105">
             <img
-              src="/home/Edward876/portfolio-website-new/src/components/IMG_20240920_212733_295.jpg"
+              src="https://media-hosting.imagekit.io//6be822e606524531/IMG_20240920_212733_295.jpg?Expires=1831201810&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=Asw9IST0rE9t4mKtrQ1JfLtpzP6JhlSxB5ooku1vRncYwgs6MgPxvkF3QxkDGU9JQqnIJPaLegrR8XD9CMqZwtyMrw238x3hz-bb68zmGBiZunuKNfQlyVfZnlyRxRoKZTTjzLdQf~D-9w-WoxVIK5-g2Ul9Ep2-uh5ntDQuU8aaucD~YlZs8npG1IKpqES1MUtMBmSC7e4TcApgUrvjh0156PPbw~kp16SlEz0T~4f3k5VQ7jORUzCy0clTYAnNtwGD4~oCGQ0Dtb6pn~7j76bSTcdd6oqEsQoa--tXIyirCgCsCi4Ki5FKFrksZBDagZ8U6y9yLoT9WjaDz9HeHw__"
               alt="Profile"
               className="w-full h-full object-cover"
             />
