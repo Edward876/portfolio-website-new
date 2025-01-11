@@ -6,7 +6,8 @@ export function RotatingTitles() {
     "Machine Learning Enthusiast",
     "Python Developer",
     "Node.js Developer",
-    "Full Stack Developer"
+    "JAVSCRIPT",
+    "Basically Weeb"
   ];
   
   const [currentIndex, setCurrentIndex] = useState(0);
