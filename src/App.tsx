@@ -25,7 +25,7 @@ function App() {
         <header className="mb-20 text-center">
           <div className="w-48 h-48 mx-auto mb-8 rounded-full overflow-hidden ring-4 ring-purple-500/50 hover:ring-purple-400 transition-all duration-300 transform hover:scale-105">
             <img
-              src="src/components/IMG_20240920_212733_295.jpg"
+              src="/home/Edward876/portfolio-website-new/src/components/IMG_20240920_212733_295.jpg"
               alt="Profile"
               className="w-full h-full object-cover"
             />
